@@ -1,0 +1,43 @@
+{
+  "Hero": {
+    "title1": "Fast & Smart",
+    "title2": "Fire Calculator",
+    "title3": "",
+    "description": "A free and powerful Fire Calculator, ideal for people who doesn't wanna work for STUPID bosses and WEAK colleagues and wanna know how long you can live if you RETIRE NOW."
+  },
+  "SocialProof": {
+    "maker": "makers ship fast"
+  },
+  "Feature": {
+    "title": "Features"
+  },
+  "Pricing": {
+    "title": "Pricing",
+    "title2": "Get unlimited access.",
+    "description": "The page you are currently viewing is an open-source, free boilerplate.",
+    "doYouLike": "Do you like this landing page boilerplate?",
+    "follow": "Follow my Twitter."
+  },
+  "WallOfLove": {
+    "title": "Wall of Love",
+    "description1": "If you use this landing page template and recommend it on your Twitter,",
+    "description2": "please let me know",
+    "description3": ". I will display your tweet and recommendation here."
+  },
+  "FAQ": {
+    "title": "FAQs",
+    "description": "Here are some of the most frequently asked questions."
+  },
+  "CTA": {
+    "title": "Build Your Landing Page Now",
+    "description1": "Build",
+    "description2": "your landing page,",
+    "description3": "show",
+    "description4": "your product, and",
+    "description5": "start earning",
+    "description6": "!"
+  },
+  "CTAButton": {
+    "title": "Calculate now"
+  }
+}
